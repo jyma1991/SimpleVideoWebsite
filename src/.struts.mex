@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Struts2Diagram version="2.0">
+  <include file="struts-default.xml" location="10,10" size="150,30" />
+  <include file="Page.xml" location="10,115" size="150,30" />
+  <include file="Dispatcher.xml" location="10,220" size="150,30" />
+  <include file="Video.xml" location="10,325" size="150,30" />
+  <include file="Configure.xml" location="10,430" size="150,30" />
+</Struts2Diagram>
+
